@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SRM Full Stack Engineering Challenge - BFHL API
 
 A complete full-stack solution for the SRM Full Stack Engineering Challenge (Round 1). Build a REST API that processes hierarchical relationships and a frontend to interact with it.
@@ -224,3 +225,6 @@ curl -X POST http://localhost:8000/bfhl \
 ## License
 
 MIT
+=======
+# BFHL-Challenge
+>>>>>>> 7e464218ba7ad15e1fb636d707fd0aaa683af74c
